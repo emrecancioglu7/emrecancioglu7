@@ -15,9 +15,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emrecancioglu/">
-    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png" style="filter: hue-rotate(30deg);" />
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png" style="filter: hue-rotate(30deg) saturate(4) brightness(1.5);" />
   </a>
 </p>
+
 
 <p align="center">
   <!-- GitHub Stars Badge -->
@@ -96,7 +97,7 @@ Whether it’s optimizing processes, crafting innovative solutions, or driving d
  
   ![](https://github-contributor-stats.vercel.app/api?username=emrecancioglu7&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 </details>
-
+<details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -149,7 +150,7 @@ Whether it’s optimizing processes, crafting innovative solutions, or driving d
 </details>
 
 
-<details open> 
+<details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
   
   <h3>🔥 Streak Stats</h3>
@@ -168,6 +169,7 @@ Whether it’s optimizing processes, crafting innovative solutions, or driving d
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="emrecancioglu7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=emrecancioglu7&bg_color=transparent&color=003DA6&line=EF7D00&point=FFFFFF&hide_border=true" /></a>
 </details>
+
 ---
 
 <p align="center">
