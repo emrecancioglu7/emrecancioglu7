@@ -12,13 +12,14 @@
   <img align="center" alt="GIF" src="https://cdn.dribbble.com/users/1515168/screenshots/3385164/media/a5859e9bce47a534a9dc11db41c89fea.gif" width="350" />
 </p>
 
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/emrecancioglu/">
-    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png" style="filter: hue-rotate(30deg) saturate(4) brightness(1.5);" />
+  <a href="https://www.linkedin.com/in/emrecancioglu/" target="_blank">
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png"/>
+  </a>
+  <a href="https://emrecancioglu.com/" target="_blank">
+    <img width="32px" alt="Website" title="Website" src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png"/>
   </a>
 </p>
-
 
 <p align="center">
   <!-- GitHub Stars Badge -->
