@@ -83,7 +83,7 @@ def hero(p):
 
 # ---------------------------------------------------------------- stat tiles
 STATS = [("9+", "years experience"), ("3", "manufacturing plants"), ("300+", "OT data channels"),
-         ("57%", "cost reduction"), ("4", "publications"), ("6", "awards")]
+         ("57%", "cost reduction"), ("5", "publications"), ("6", "awards")]
 
 
 def stats(p):
@@ -99,7 +99,7 @@ def stats(p):
           {t(f"{x + tw / 2:.1f}", 106, label, 15, p["muted"], 500, "middle")}
         </g>''')
     style = ""
-    return svg(w, h, "".join(tiles), style, "9+ years experience, 3 manufacturing plants, 300+ OT data channels, 57% cost reduction, 4 publications, 6 awards")
+    return svg(w, h, "".join(tiles), style, "9+ years experience, 3 manufacturing plants, 300+ OT data channels, 57% cost reduction, 5 publications, 6 awards")
 
 
 # ---------------------------------------------------------------- "what I build" cards
