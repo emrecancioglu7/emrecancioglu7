@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="89" viewBox="0 0 1200 89" role="img" aria-label="OT and industrial systems: Siemens PLC, Allen-Bradley, Mitsubishi, SCADA, DCS, HMI, MES, OPC UA, MQTT, Modbus TCP/RTU, Profinet, EtherNet/IP, CC-Link, Kepware, Unified Namespace, Digital Twin, ISA-95, IEC 62443, SAP, Power BI, Grafana"><title>OT and industrial systems: Siemens PLC, Allen-Bradley, Mitsubishi, SCADA, DCS, HMI, MES, OPC UA, MQTT, Modbus TCP/RTU, Profinet, EtherNet/IP, CC-Link, Kepware, Unified Namespace, Digital Twin, ISA-95, IEC 62443, SAP, Power BI, Grafana</title><style>text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; }  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style><g class="fade" style="animation-delay:0.00s">
+          <rect x="0.5" y="0.5" width="124.6" height="37" rx="19" fill="#ffffff" stroke="#d7e3dd"/>
+          <circle cx="17.0" cy="19.0" r="3.5" fill="#059669"/>
+          <text x="27.0" y="24.0" font-size="15" font-weight="500" fill="#17181a" text-anchor="start" >Siemens PLC</text>
+        </g><g class="fade" style="animation-delay:0.04s">
+          <rect x="136.1" y="0.5" width="139.8" height="37" rx="19" fill="#ffffff" stroke="#d7e3dd"/>
+          <circle cx="152.6" cy="19.0" r="3.5" fill="#059669"/>
+          <text x="162.6" y="24.0" font-size="15" font-weight="500" fill="#17181a" text-anchor="start" >Allen-Bradley</text>
+        </g><g class="fade" style="animation-delay:0.08s">
+          <rect x="286.9" y="0.5" width="117.0" height="37" rx="19" fill="#ffffff" stroke="#d7e3dd"/>
+          <circle cx="303.4" cy="19.0" r="3.5" fill="#059669"/>
+          <text x="313.4" y="24.0" font-size="15" font-weight="500" fill="#17181a" text-anchor="start" >Mitsubishi</text>
+        </g><g class="fade" style="animation-delay:0.12s">
+          <rect x="414.9" y="0.5" width="79.0" height="37" rx="19" fill="#ffffff" stroke="#d7e3dd"/>
+          <circle cx="431.4" cy="19.0" r="3.5" fill="#059669"/>
+          <text x="441.4" y="24.0" font-size="15" font-weight="500" fill="#17181a" text-anchor="start" >SCADA</text>
+        </g><g class="fade" style="animation-delay:0.16s">
+          <rect x="504.9" y="0.5" width="63.8" height="37" rx="19" fill="#ffffff" stroke="#d7e3dd"/>
+          <circle cx="521.4" cy="19.0" r="3.5" fill="#059669"/>
+          <text x="531.4" y="24.0" font-size="15" font-weight="500" fill="#17181a" text-anchor="start" >DCS</text>
+        </g><g class="fade" style="animation-delay:0.20s">
+          <rect x="579.7" y="0.5" width="63.8" height="37" rx="19" fill="#ffffff" stroke="#d7e3dd"/>
+          <circle cx="596.2" cy="19.0" r="3.5" fill="#059669"/>
+          <text x="606.2" y="24.0" font-size="15" font-weight="500" fill="#17181a" text-anchor="start" >HMI</text>
+        </g><g class="fade" style="animation-delay:0.24s">
+          <rect x="654.5" y="0.5" width="63.8" height="37" rx="19" fill="#ffffff" stroke="#d7e3dd"/>
+          <circle cx="671.0" cy="19.0" r="3.5" fill="#059669"/>
+          <text x="681.0" y="24.0" font-size="15" font-weight="500" fill="#17181a" text-anchor="start" >MES</text>
+        </g><g class="fade" style="animation-delay:0.28s">
+          <rect x="729.3" y="0.5" width="86.6" height="37" rx="19" fill="#ffffff" stroke="#d7e3dd"/>
+          <circle cx="745.8" cy="19.0" r="3.5" fill="#059669"/>
+          <text x="755.8" y="24.0" font-size="15" font-weight="500" fill="#17181a" text-anchor="start" >OPC UA</text>
+        </g><g class="fade" style="animation-delay:0.32s">
+          <rect x="826.9" y="0.5" width="71.4" height="37" rx="19" fill="#ffffff" stroke="#d7e3dd"/>
+          <circle cx="843.4" cy="19.0" r="3.5" fill="#059669"/>
+          <text x="853.4" y="24.0" font-size="15" font-weight="500" fill="#17181a" text-anchor="start" >MQTT</text>
+        </g><g class="fade" style="animation-delay:0.36s">
+          <rect x="909.3" y="0.5" width="147.4" height="37" rx="19" fill="#ffffff" stroke="#d7e3dd"/>
+          <circle cx="925.8" cy="19.0" r="3.5" fill="#059669"/>
+          <text x="935.8" y="24.0" font-size="15" font-weight="500" fill="#17181a" text-anchor="start" >Modbus TCP/RTU</text>
+        </g><g class="fade" style="animation-delay:0.40s">
+          <rect x="1067.7" y="0.5" width="101.8" height="37" rx="19" fill="#ffffff" stroke="#d7e3dd"/>
+          <circle cx="1084.2" cy="19.0" r="3.5" fill="#059669"/>
+          <text x="1094.2" y="24.0" font-size="15" font-weight="500" fill="#17181a" text-anchor="start" >Profinet</text>
+        </g><g class="fade" style="animation-delay:0.44s">
+          <rect x="0.5" y="50.5" width="124.6" height="37" rx="19" fill="#ffffff" stroke="#d7e3dd"/>
+          <circle cx="17.0" cy="69.0" r="3.5" fill="#059669"/>
+          <text x="27.0" y="74.0" font-size="15" font-weight="500" fill="#17181a" text-anchor="start" >EtherNet/IP</text>
+        </g><g class="fade" style="animation-delay:0.48s">
+          <rect x="136.1" y="50.5" width="94.2" height="37" rx="19" fill="#ffffff" stroke="#d7e3dd"/>
+          <circle cx="152.6" cy="69.0" r="3.5" fill="#059669"/>
+          <text x="162.6" y="74.0" font-size="15" font-weight="500" fill="#17181a" text-anchor="start" >CC-Link</text>
+        </g><g class="fade" style="animation-delay:0.52s">
+          <rect x="241.3" y="50.5" width="94.2" height="37" rx="19" fill="#ffffff" stroke="#d7e3dd"/>
+          <circle cx="257.8" cy="69.0" r="3.5" fill="#059669"/>
+          <text x="267.8" y="74.0" font-size="15" font-weight="500" fill="#17181a" text-anchor="start" >Kepware</text>
+        </g><g class="fade" style="animation-delay:0.56s">
+          <rect x="346.5" y="50.5" width="170.2" height="37" rx="19" fill="#ffffff" stroke="#d7e3dd"/>
+          <circle cx="363.0" cy="69.0" r="3.5" fill="#059669"/>
+          <text x="373.0" y="74.0" font-size="15" font-weight="500" fill="#17181a" text-anchor="start" >Unified Namespace</text>
+        </g><g class="fade" style="animation-delay:0.60s">
+          <rect x="527.7" y="50.5" width="132.2" height="37" rx="19" fill="#ffffff" stroke="#d7e3dd"/>
+          <circle cx="544.2" cy="69.0" r="3.5" fill="#059669"/>
+          <text x="554.2" y="74.0" font-size="15" font-weight="500" fill="#17181a" text-anchor="start" >Digital Twin</text>
+        </g><g class="fade" style="animation-delay:0.64s">
+          <rect x="670.9" y="50.5" width="86.6" height="37" rx="19" fill="#ffffff" stroke="#d7e3dd"/>
+          <circle cx="687.4" cy="69.0" r="3.5" fill="#059669"/>
+          <text x="697.4" y="74.0" font-size="15" font-weight="500" fill="#17181a" text-anchor="start" >ISA-95</text>
+        </g><g class="fade" style="animation-delay:0.68s">
+          <rect x="768.5" y="50.5" width="109.4" height="37" rx="19" fill="#ffffff" stroke="#d7e3dd"/>
+          <circle cx="785.0" cy="69.0" r="3.5" fill="#059669"/>
+          <text x="795.0" y="74.0" font-size="15" font-weight="500" fill="#17181a" text-anchor="start" >IEC 62443</text>
+        </g><g class="fade" style="animation-delay:0.72s">
+          <rect x="888.9" y="50.5" width="63.8" height="37" rx="19" fill="#ffffff" stroke="#d7e3dd"/>
+          <circle cx="905.4" cy="69.0" r="3.5" fill="#059669"/>
+          <text x="915.4" y="74.0" font-size="15" font-weight="500" fill="#17181a" text-anchor="start" >SAP</text>
+        </g><g class="fade" style="animation-delay:0.76s">
+          <rect x="963.7" y="50.5" width="101.8" height="37" rx="19" fill="#ffffff" stroke="#d7e3dd"/>
+          <circle cx="980.2" cy="69.0" r="3.5" fill="#059669"/>
+          <text x="990.2" y="74.0" font-size="15" font-weight="500" fill="#17181a" text-anchor="start" >Power BI</text>
+        </g><g class="fade" style="animation-delay:0.80s">
+          <rect x="1076.5" y="50.5" width="94.2" height="37" rx="19" fill="#ffffff" stroke="#d7e3dd"/>
+          <circle cx="1093.0" cy="69.0" r="3.5" fill="#059669"/>
+          <text x="1103.0" y="74.0" font-size="15" font-weight="500" fill="#17181a" text-anchor="start" >Grafana</text>
+        </g></svg>

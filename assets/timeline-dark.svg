@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="Career: 2017 Part-time Project Engineer at DİMES; 2018 Software &amp; Automation Eng. at DVD Valves; 2022 Software &amp; Automation Lead at DVD Valves; 2022 Senior OT Engineer at İnci GS Yuasa; 2026 Digitalization &amp; AI Supervisor at İnci GS Yuasa"><title>Career: 2017 Part-time Project Engineer at DİMES; 2018 Software &amp; Automation Eng. at DVD Valves; 2022 Software &amp; Automation Lead at DVD Valves; 2022 Senior OT Engineer at İnci GS Yuasa; 2026 Digitalization &amp; AI Supervisor at İnci GS Yuasa</title><style>text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; }     .draw { stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: draw 1.6s ease-out .2s forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    .ring { animation: ring 2.4s ease-in-out infinite; }
+    @keyframes ring { 0%,100% { transform: scale(1); opacity: .9; } 50% { transform: scale(1.6); opacity: .15; } } @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style><line x1="150" y1="115" x2="1050" y2="115" stroke="#1a2430" stroke-width="4" stroke-linecap="round"/><line x1="150" y1="115" x2="1050" y2="115" stroke="#34d399" stroke-width="4" stroke-linecap="round" class="draw"/><circle cx="150.0" cy="115" r="9" fill="#11161d" stroke="#34d399" stroke-width="3" class="fade" style="animation-delay:0.30s"/><g class="fade" style="animation-delay:0.35s">
+          <text x="150.0" y="57" font-size="15" font-weight="700" fill="#34d399" text-anchor="middle" >2017</text>
+          <text x="150.0" y="79" font-size="16" font-weight="600" fill="#ececea" text-anchor="middle" >Part-time Project Engineer</text>
+          <text x="150.0" y="99" font-size="14" font-weight="400" fill="#9aa3ab" text-anchor="middle" >DİMES</text>
+        </g><circle cx="375.0" cy="115" r="9" fill="#11161d" stroke="#34d399" stroke-width="3" class="fade" style="animation-delay:0.55s"/><g class="fade" style="animation-delay:0.60s">
+          <text x="375.0" y="163" font-size="15" font-weight="700" fill="#34d399" text-anchor="middle" >2018</text>
+          <text x="375.0" y="185" font-size="16" font-weight="600" fill="#ececea" text-anchor="middle" >Software &amp; Automation Eng.</text>
+          <text x="375.0" y="205" font-size="14" font-weight="400" fill="#9aa3ab" text-anchor="middle" >DVD Valves</text>
+        </g><circle cx="600.0" cy="115" r="9" fill="#11161d" stroke="#34d399" stroke-width="3" class="fade" style="animation-delay:0.80s"/><g class="fade" style="animation-delay:0.85s">
+          <text x="600.0" y="57" font-size="15" font-weight="700" fill="#34d399" text-anchor="middle" >2022</text>
+          <text x="600.0" y="79" font-size="16" font-weight="600" fill="#ececea" text-anchor="middle" >Software &amp; Automation Lead</text>
+          <text x="600.0" y="99" font-size="14" font-weight="400" fill="#9aa3ab" text-anchor="middle" >DVD Valves</text>
+        </g><circle cx="825.0" cy="115" r="9" fill="#11161d" stroke="#34d399" stroke-width="3" class="fade" style="animation-delay:1.05s"/><g class="fade" style="animation-delay:1.10s">
+          <text x="825.0" y="163" font-size="15" font-weight="700" fill="#34d399" text-anchor="middle" >2022</text>
+          <text x="825.0" y="185" font-size="16" font-weight="600" fill="#ececea" text-anchor="middle" >Senior OT Engineer</text>
+          <text x="825.0" y="205" font-size="14" font-weight="400" fill="#9aa3ab" text-anchor="middle" >İnci GS Yuasa</text>
+        </g><circle cx="1050.0" cy="115" r="15" fill="#34d399" fill-opacity="0.25" class="ring" style="transform-origin:1050.0px 115px"/><circle cx="1050.0" cy="115" r="9" fill="#34d399" stroke="#34d399" stroke-width="3" class="fade" style="animation-delay:1.30s"/><g class="fade" style="animation-delay:1.35s">
+          <text x="1050.0" y="57" font-size="15" font-weight="700" fill="#34d399" text-anchor="middle" >2026  ·  now</text>
+          <text x="1050.0" y="79" font-size="16" font-weight="700" fill="#ececea" text-anchor="middle" >Digitalization &amp; AI Supervisor</text>
+          <text x="1050.0" y="99" font-size="14" font-weight="400" fill="#9aa3ab" text-anchor="middle" >İnci GS Yuasa</text>
+        </g></svg>

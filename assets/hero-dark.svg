@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Emre Çancıoğlu — Digitalization &amp; AI Supervisor, OT digitalization, Unified Namespace and industrial AI"><title>Emre Çancıoğlu — Digitalization &amp; AI Supervisor, OT digitalization, Unified Namespace and industrial AI</title><style>text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; } 
+    .pulse { stroke-dasharray: 18 400; stroke-dashoffset: 418; animation: flow 2.7s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: 0; } }
+    .ring { transform-origin: 930px 190px; animation: ring 2.4s ease-in-out infinite; }
+    @keyframes ring { 0%,100% { transform: scale(1); opacity: .9; } 50% { transform: scale(1.35); opacity: .2; } }
+     @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0d12"/><stop offset="1" stop-color="#0e1a18"/></linearGradient>
+      <radialGradient id="glow" cx="0.78" cy="0.5" r="0.45"><stop offset="0" stop-color="#34d399" stop-opacity="0.22"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></radialGradient>
+      <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1a2430" stroke-width="1"/></pattern>
+    </defs>
+    <rect width="1200" height="380" rx="18" fill="url(#bg)"/>
+    <rect width="1200" height="380" rx="18" fill="url(#grid)" opacity="0.55"/>
+    <rect width="1200" height="380" rx="18" fill="url(#glow)"/>
+    <rect x="0.5" y="0.5" width="1199" height="379" rx="18" fill="none" stroke="#1f2a33"/>
+    <g class="fade" style="animation-delay:0s"><text x="64" y="104" font-size="15" font-weight="700" fill="#34d399" text-anchor="start" letter-spacing="3">DIGITALIZATION &amp; AI SUPERVISOR</text></g>
+    <g class="fade" style="animation-delay:.15s"><text x="62" y="172" font-size="66" font-weight="700" fill="#ececea" text-anchor="start" >Emre Çancıoğlu</text></g>
+    <g class="fade" style="animation-delay:.3s"><text x="64" y="216" font-size="22" font-weight="400" fill="#9aa3ab" text-anchor="start" >OT Digitalization · Unified Namespace · Industrial AI</text></g>
+    <g class="fade" style="animation-delay:.45s"><text x="64" y="250" font-size="18" font-weight="400" fill="#9aa3ab" text-anchor="start" >@ İnci GS Yuasa · İzmir, Türkiye</text></g>
+    <g class="fade" style="animation-delay:.6s">
+      <rect x="64" y="282" width="236" height="42" rx="21" fill="#34d39922" stroke="#34d399" stroke-opacity="0.5"/>
+      <text x="182" y="309" font-size="16" font-weight="600" fill="#34d399" text-anchor="middle" >emrecancioglu.com  →</text>
+    </g>
+    <path d="M930.0,70.0 L930,190" stroke="#1a2430" stroke-width="2"/><path d="M930.0,70.0 L930,190" stroke="#34d399" stroke-width="2.5" stroke-linecap="round" class="pulse" style="animation-delay:0.00s"/><circle cx="930.0" cy="70.0" r="31" fill="#11161d" stroke="#1f2a33" stroke-width="1.5"/><text x="930.0" y="75.0" font-size="14" font-weight="600" fill="#ececea" text-anchor="middle" >PLC</text><path d="M1033.9,130.0 L930,190" stroke="#1a2430" stroke-width="2"/><path d="M1033.9,130.0 L930,190" stroke="#34d399" stroke-width="2.5" stroke-linecap="round" class="pulse" style="animation-delay:0.45s"/><circle cx="1033.9" cy="130.0" r="31" fill="#11161d" stroke="#1f2a33" stroke-width="1.5"/><text x="1033.9" y="135.0" font-size="14" font-weight="600" fill="#ececea" text-anchor="middle" >SCADA</text><path d="M1033.9,250.0 L930,190" stroke="#1a2430" stroke-width="2"/><path d="M1033.9,250.0 L930,190" stroke="#34d399" stroke-width="2.5" stroke-linecap="round" class="pulse" style="animation-delay:0.90s"/><circle cx="1033.9" cy="250.0" r="31" fill="#11161d" stroke="#1f2a33" stroke-width="1.5"/><text x="1033.9" y="255.0" font-size="14" font-weight="600" fill="#ececea" text-anchor="middle" >MES</text><path d="M930.0,310.0 L930,190" stroke="#1a2430" stroke-width="2"/><path d="M930.0,310.0 L930,190" stroke="#34d399" stroke-width="2.5" stroke-linecap="round" class="pulse" style="animation-delay:1.35s"/><circle cx="930.0" cy="310.0" r="31" fill="#11161d" stroke="#1f2a33" stroke-width="1.5"/><text x="930.0" y="315.0" font-size="14" font-weight="600" fill="#ececea" text-anchor="middle" >SAP</text><path d="M826.1,250.0 L930,190" stroke="#1a2430" stroke-width="2"/><path d="M826.1,250.0 L930,190" stroke="#34d399" stroke-width="2.5" stroke-linecap="round" class="pulse" style="animation-delay:1.80s"/><circle cx="826.1" cy="250.0" r="31" fill="#11161d" stroke="#1f2a33" stroke-width="1.5"/><text x="826.1" y="255.0" font-size="14" font-weight="600" fill="#ececea" text-anchor="middle" >AI</text><path d="M826.1,130.0 L930,190" stroke="#1a2430" stroke-width="2"/><path d="M826.1,130.0 L930,190" stroke="#34d399" stroke-width="2.5" stroke-linecap="round" class="pulse" style="animation-delay:2.25s"/><circle cx="826.1" cy="130.0" r="31" fill="#11161d" stroke="#1f2a33" stroke-width="1.5"/><text x="826.1" y="135.0" font-size="14" font-weight="600" fill="#ececea" text-anchor="middle" >Cloud</text>
+    <circle cx="930" cy="190" r="46" fill="#34d399" fill-opacity="0.12" class="ring"/>
+    <circle cx="930" cy="190" r="40" fill="#11161d" stroke="#34d399" stroke-width="2.5"/>
+    <text x="930" y="196" font-size="18" font-weight="800" fill="#34d399" text-anchor="middle" >UNS</text>
+    </svg>

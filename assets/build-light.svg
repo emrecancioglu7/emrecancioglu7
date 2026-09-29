@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="408" viewBox="0 0 1200 408" role="img" aria-label="Unified Namespace &amp; OT data: PLC, SCADA, MES, historian and SAP unified over OPC UA, MQTT and Kafka — the plant's digital twin. (300+ data channels); Computer vision for safety: YOLO models that stop robots near people (AI-ODS) and prevent forklift collisions at blind spots (AI-FDS). (4 yrs zero accidents); GenAI &amp; automation: RAG knowledge systems and multi-agent workflows (n8n, Copilot, GPT, Claude): day-long reports in seconds. (25 AI projects); Energy &amp; sustainability: 200+ remote-read meters, machine-level energy and carbon dashboards on SAP, ML consumption forecasting. (R² up to 0.944)"><title>Unified Namespace &amp; OT data: PLC, SCADA, MES, historian and SAP unified over OPC UA, MQTT and Kafka — the plant's digital twin. (300+ data channels); Computer vision for safety: YOLO models that stop robots near people (AI-ODS) and prevent forklift collisions at blind spots (AI-FDS). (4 yrs zero accidents); GenAI &amp; automation: RAG knowledge systems and multi-agent workflows (n8n, Copilot, GPT, Claude): day-long reports in seconds. (25 AI projects); Energy &amp; sustainability: 200+ remote-read meters, machine-level energy and carbon dashboards on SAP, ML consumption forecasting. (R² up to 0.944)</title><style>text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; }  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style><g class="fade" style="animation-delay:0.00s">
+          <rect x="0.5" y="0.5" width="591.0" height="195" rx="16" fill="#ffffff" stroke="#d7e3dd"/>
+          <rect x="28.0" y="28" width="52" height="52" rx="14" fill="#05966914"/>
+          <g stroke="#059669" stroke-width="2.4" fill="none"><circle cx="54" cy="54" r="6"/><circle cx="40" cy="66" r="4"/><circle cx="68" cy="66" r="4"/><circle cx="54" cy="39" r="4"/><path d="M50,58L43,63M58,58L65,63M54,48L54,43"/></g>
+          <text x="100.0" y="62" font-size="23" font-weight="700" fill="#17181a" text-anchor="start" >Unified Namespace &amp; OT data</text>
+          <text x="28.0" y="116" font-size="16" font-weight="400" fill="#5b6168" text-anchor="start" >PLC, SCADA, MES, historian and SAP unified over</text>
+          <text x="28.0" y="140" font-size="16" font-weight="400" fill="#5b6168" text-anchor="start" >OPC UA, MQTT and Kafka — the plant's digital twin.</text>
+          <rect x="28.0" y="156" width="176.8" height="28" rx="14" fill="#05966914"/>
+          <text x="116.4" y="175" font-size="14" font-weight="700" fill="#059669" text-anchor="middle" >300+ data channels</text>
+        </g><g class="fade" style="animation-delay:0.15s">
+          <rect x="608.5" y="0.5" width="591.0" height="195" rx="16" fill="#ffffff" stroke="#d7e3dd"/>
+          <rect x="636.0" y="28" width="52" height="52" rx="14" fill="#05966914"/>
+          <g stroke="#059669" stroke-width="2.4" fill="none"><path d="M645,54 Q662,39 679,54 Q662,69 645,54Z"/><circle cx="662" cy="54" r="5"/></g>
+          <text x="708.0" y="62" font-size="23" font-weight="700" fill="#17181a" text-anchor="start" >Computer vision for safety</text>
+          <text x="636.0" y="116" font-size="16" font-weight="400" fill="#5b6168" text-anchor="start" >YOLO models that stop robots near people (AI-ODS)</text>
+          <text x="636.0" y="140" font-size="16" font-weight="400" fill="#5b6168" text-anchor="start" >and prevent forklift collisions at blind spots (AI-FDS).</text>
+          <rect x="636.0" y="156" width="194.0" height="28" rx="14" fill="#05966914"/>
+          <text x="733.0" y="175" font-size="14" font-weight="700" fill="#059669" text-anchor="middle" >4 yrs zero accidents</text>
+        </g><g class="fade" style="animation-delay:0.30s">
+          <rect x="0.5" y="212.5" width="591.0" height="195" rx="16" fill="#ffffff" stroke="#d7e3dd"/>
+          <rect x="28.0" y="240" width="52" height="52" rx="14" fill="#05966914"/>
+          <path d="M54,249 L58.5,261.5 L71,266 L58.5,270.5 L54,283 L49.5,270.5 L37,266 L49.5,261.5Z" fill="none" stroke="#059669" stroke-width="2.4" stroke-linejoin="round"/>
+          <text x="100.0" y="274" font-size="23" font-weight="700" fill="#17181a" text-anchor="start" >GenAI &amp; automation</text>
+          <text x="28.0" y="328" font-size="16" font-weight="400" fill="#5b6168" text-anchor="start" >RAG knowledge systems and multi-agent workflows</text>
+          <text x="28.0" y="352" font-size="16" font-weight="400" fill="#5b6168" text-anchor="start" >(n8n, Copilot, GPT, Claude): day-long reports in seconds.</text>
+          <rect x="28.0" y="368" width="142.4" height="28" rx="14" fill="#05966914"/>
+          <text x="99.2" y="387" font-size="14" font-weight="700" fill="#059669" text-anchor="middle" >25 AI projects</text>
+        </g><g class="fade" style="animation-delay:0.45s">
+          <rect x="608.5" y="212.5" width="591.0" height="195" rx="16" fill="#ffffff" stroke="#d7e3dd"/>
+          <rect x="636.0" y="240" width="52" height="52" rx="14" fill="#05966914"/>
+          <path d="M665,249 L653,268 L662,268 L659,283 L671,264 L662,264Z" fill="none" stroke="#059669" stroke-width="2.4" stroke-linejoin="round"/>
+          <text x="708.0" y="274" font-size="23" font-weight="700" fill="#17181a" text-anchor="start" >Energy &amp; sustainability</text>
+          <text x="636.0" y="328" font-size="16" font-weight="400" fill="#5b6168" text-anchor="start" >200+ remote-read meters, machine-level energy and</text>
+          <text x="636.0" y="352" font-size="16" font-weight="400" fill="#5b6168" text-anchor="start" >carbon dashboards on SAP, ML consumption forecasting.</text>
+          <rect x="636.0" y="368" width="142.4" height="28" rx="14" fill="#05966914"/>
+          <text x="707.2" y="387" font-size="14" font-weight="700" fill="#059669" text-anchor="middle" >R² up to 0.944</text>
+        </g></svg>
