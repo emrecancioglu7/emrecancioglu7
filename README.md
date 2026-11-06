@@ -89,8 +89,8 @@ I lead **OT digitalization** and **applied-AI** strategy across 3 battery manufa
 | 2026 | [Machine learning–assisted monitoring and data acquisition for electricity and compressed-air consumption forecasting in battery production lines](https://emrecancioglu.com/publications/energy-forecasting-battery-production-2026) | 13th International European Conference on Interdisciplinary Scientific Research, Tirana · pp. 392–401 |
 | 2024 | [Data integration for Industry 4.0 &amp; IoT: Unified Namespace–based digital transformation with MQTT, OPC UA and Node.js](https://emrecancioglu.com/publications/unified-namespace-mqtt-opc-ua-2024) | VI. University–Industry Cooperation, R&amp;D and Innovation Congress, Manisa |
 | 2021 | [Fault detection and diagnosis on process control systems using ensemble learning from Poincaré plot measures](https://emrecancioglu.com/publications/fault-detection-poincare-ensemble-2021) | European Journal of Science and Technology, 26, pp. 30–34 · [DOI](https://doi.org/10.31590/ejosat.952761) |
-| 2020 | [Heart sounds analysis and classification based on long-short term memory](https://emrecancioglu.com/publications/lstm-heart-sound-classification-2020) | Journal of Intelligent Systems with Applications, 3(1), pp. 25–28 |
-| 2020 | [Design and implementation of digital filters for ECG data based on FPGA and MATLAB](https://emrecancioglu.com/publications/ecg-fpga-digital-filter-design-2020) | Journal of Intelligent Systems with Applications, 3(1), pp. 17–19 |
+| 2020 | [Heart sounds analysis and classification based on long-short term memory](https://emrecancioglu.com/publications/lstm-heart-sound-classification-2020) | Journal of Intelligent Systems with Applications, 3(1), pp. 25–28 · [DOI](https://doi.org/10.54856/jiswa.202005104) |
+| 2020 | [Design and implementation of digital filters for ECG data based on FPGA and MATLAB](https://emrecancioglu.com/publications/ecg-fpga-digital-filter-design-2020) | Journal of Intelligent Systems with Applications, 3(1), pp. 17–19 · [DOI](https://doi.org/10.54856/jiswa.202005102) |
 
 ### 🏆 Recognition
 
